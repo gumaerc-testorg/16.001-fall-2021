@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/unified-engineering-materials-and-structures/mit16_001_f21_pset13.pdf
+file: /ol-ocw-studio-app/courses/16-001-unified-engineering-materials-and-structures-fall-2021/mit16_001_f21_pset13.pdf
 file_size: 414489
 file_type: application/pdf
 image_metadata:
