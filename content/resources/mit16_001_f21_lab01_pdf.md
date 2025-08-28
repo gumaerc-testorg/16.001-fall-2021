@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/unified-engineering-materials-and-structures/mit16_001_f21_lab01.pdf
+file: /ol-ocw-studio-app/courses/16-001-unified-engineering-materials-and-structures-fall-2021/mit16_001_f21_lab01.pdf
 file_size: 728990
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: Unified Engineering Materials and Structures Lab 01
