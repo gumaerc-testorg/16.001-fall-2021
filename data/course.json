@@ -46,10 +46,11 @@
     "Lecture Notes",
     "Problem Sets with Solutions",
     "Exams with Solutions",
-    "Labs",
-    "Online Textbook",
+    "Laboratory Assignments",
+    "Open Textbooks",
     "Readings"
   ],
   "site_uid": "f95a24ad-4f79-4288-88f7-c176b7062cc6",
-  "site_short_id": "16.001-fall-2021"
+  "site_short_id": "16.001-fall-2021",
+  "site_url_path": "courses/16-001-unified-engineering-materials-and-structures-fall-2021"
 }

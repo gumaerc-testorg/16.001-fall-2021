@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/unified-engineering-materials-and-structures/mit16_001_f21_lec19lec20lec21.pdf
+file: /ol-ocw-studio-app/courses/16-001-unified-engineering-materials-and-structures-fall-2021/mit16_001_f21_lec19lec20lec21.pdf
 file_size: 204787
 file_type: application/pdf
 image_metadata:
